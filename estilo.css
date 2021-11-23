@@ -1,0 +1,41 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+
+
+.content {
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1, p {
+  text-align: center;  
+
+}
+
+.color {
+  color:rgb(0, 255, 255)
+}
+
+
+.lalala {
+  color:rgb(255, 208, 0)
+}
+
+
+div {
+  text-align: center;
+}
+
+
+
+
